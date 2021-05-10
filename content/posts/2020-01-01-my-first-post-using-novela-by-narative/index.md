@@ -1,18 +1,18 @@
 ---
-title: My first post using Novela by Narative
-author: Dennis Brotzky
-date: 2019-04-30
+title: Test blog post for Pictures in Words
+author: Ljubiša Vuković
+date: 2021-05-10
 hero: ./images/hero.jpg
-excerpt: With the growing community interest in Gatsby, we hope to create more resources that make it easier for anyone to grasp the power of this incredible tool.
+excerpt: This is a test post to see whether or not the blog works properly. More posts to come soon, stay tuned!
 ---
 
-My first post using `@narative/gatsby-theme-novela`. Novela is built by the team at [Narative](https://narative.co), and built for everyone that loves the web.
+My first post for `@picturesinwords`. Pictures in Words is built by [Ljubiša vuković](https://www.instagram.com/ljubisavukov/), and built for the purpose of sharing historically significant photos.
 
 ## Headers
 
 # H1
 
-It is recommended to NOT use H1s as it is reserved for the article heading. Any H1 is set as an H2.
+Title size test
 
 ## H2
 
@@ -24,51 +24,37 @@ It is recommended to NOT use H1s as it is reserved for the article heading. Any 
 
 ###### H6
 
-## Emphasis
+## Emphasis test
 
-Emphasis, aka italics, with _asterisks_ or _underscores_.
+Emphasis, aka italics - _Test_.
 
-Strong emphasis, aka bold, with **asterisks** or **underscores**.
+Strong emphasis, aka bold - **Test**.
 
-Combined emphasis with **asterisks and _underscores_**.
+Combined emphasis - **Test**.
 
-Strikethrough uses two tildes. ~~Scratch this.~~
+Strikethrough - ~~Test~~.
 
 ## Lists
 
-1. First ordered list item
+1. This is an ordered list
 2. Another item
-3. Actual numbers don't matter, just that it's a number
+3. Works like a charm
 
-- Unordered list can use asterisks
+- Unordered list:
 
-* Or minuses
+* Item 1
 
-- Or pluses
+- Item 2
 
 ## Links
 
-[I'm an inline-style link](https://www.google.com)
+[Inline-style link](https://www.google.com)
 
-[I'm an inline-style link with title](https://www.google.com "Google's Homepage")
+[Inline-style link with title](https://www.google.com "Google's Homepage")
 
 [I'm a reference-style link][arbitrary case-insensitive reference text]
 
 [I'm a relative reference to a repository file](../blob/master/LICENSE)
-
-[You can use numbers for reference-style link definitions][1]
-
-Or leave it empty and use the [link text itself].
-
-URLs and URLs in angle brackets will automatically get turned into links.
-http://www.example.com or <http://www.example.com> and sometimes
-example.com (but not on Github, for example).
-
-Some text to show that the reference links can follow later.
-
-[arbitrary case-insensitive reference text]: https://www.mozilla.org
-[1]: http://slashdot.org
-[link text itself]: http://www.reddit.com
 
 ## Images
 

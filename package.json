@@ -1,6 +1,6 @@
 {
-  "private": true,
-  "name": "site",
+  "private": false,
+  "name": "picturesinwords",
   "version": "1.0.0",
   "license": "MIT",
   "scripts": {
